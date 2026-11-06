@@ -6,6 +6,9 @@
   "upstreamPackageVersion": "1.1.92",
   "runtimeCodeModified": false,
   "desktopCandidate": "0.2.2-rc.1",
+  "installedDesktopVersion": "0.2.2-rc.1",
+  "desktopUpgradeCompleted": true,
+  "purgeLoadedInDesktop": false,
   "deploymentReady": false,
   "completeCompatibilityVerified": false,
   "automaticDeployment": false
