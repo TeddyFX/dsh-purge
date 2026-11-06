@@ -1,3 +1,5 @@
+> Personal fork of [HunYiSage/dsh-purge](https://github.com/HunYiSage/dsh-purge). See the [maintenance status](docs/FORK-MAINTENANCE.md); DSH Desktop 0.2.2-rc.1 is not approved for deployment by this fork.
+
 <p align="center">
   <img src="docs/banner.svg" alt="dsh-purge" width="720">
 </p>

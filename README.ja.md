@@ -1,3 +1,5 @@
+> [HunYiSage/dsh-purge](https://github.com/HunYiSage/dsh-purge) の個人 fork です。[メンテナンス状況](docs/FORK-MAINTENANCE.md)をご確認ください。本 fork では DSH Desktop 0.2.2-rc.1 の導入検証は完了していません。
+
 <p align="center">
   <img src="docs/banner.svg" alt="dsh-purge" width="720">
 </p>

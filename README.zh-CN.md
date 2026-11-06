@@ -1,3 +1,5 @@
+> 本仓库是 [HunYiSage/dsh-purge](https://github.com/HunYiSage/dsh-purge) 的个人维护 fork。请查看[维护状态](docs/FORK-MAINTENANCE.md)；本 fork 尚未通过 DSH Desktop 0.2.2-rc.1 的部署验证。
+
 <p align="center">
   <img src="docs/banner.svg" alt="dsh-purge" width="720">
 </p>

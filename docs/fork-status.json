@@ -1,0 +1,12 @@
+{
+  "checkedDate": "2026-11-06",
+  "fork": "TeddyFX/dsh-purge",
+  "upstream": "HunYiSage/dsh-purge",
+  "upstreamCommit": "fc6e787dda5cfbc48c342cf427831b403239b866",
+  "upstreamPackageVersion": "1.1.92",
+  "runtimeCodeModified": false,
+  "desktopCandidate": "0.2.2-rc.1",
+  "deploymentReady": false,
+  "completeCompatibilityVerified": false,
+  "automaticDeployment": false
+}
